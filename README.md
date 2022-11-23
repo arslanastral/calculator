@@ -1,15 +1,23 @@
-# Calculator ✔
+# 🤖 Calculator
 
 Live Demo: [https://qalculator.netlify.app/](https://qalculator.netlify.app/)
 
-Calculator for freeCodeCamp Project.
+A beautiful calculator built using react.
+
+## Features
+
+- Themeable
+- History
+- localStorage state
+- Supports keyboard input and mouse selection
+- For fun: I added an easter egg If you type 'calculon' 😄 
 
 ## Local Development:
 
-- `git clone` this repo and `cd` into `04_Calculator` directory and enter below commands
+- `git clone` this repo and `cd` into it and then:
 - `npm install`
 - `npm run start` (To start development server)
 
 ## Preview:
 
-![](https://raw.githubusercontent.com/arslanastral/freeCodeCamp-Projects/main/03_Front-End-Development-Libraries/04_Calculator/calculator-preview.png)
+![](https://raw.githubusercontent.com/arslanastral/calculator/main/calculator-preview.png)
